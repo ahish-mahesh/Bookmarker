@@ -1,3 +1,28 @@
+
+## The Idea of the project
+A one stop application which lets you manage all your bookmarks in one place.
+
+### Features implemented
+
+1. User authentication done.
+2. Each user has the ability to create and store bookmarks.
+3. Categorize multiple bookmarks under folders.
+4. Search bookmarks among folders.
+
+### What you can see in the front end 
+HTML, Javascript, CSS, Bootsrap, React JS.
+
+Libraries used:
+<ul>
+  <li>Axios</li>
+  <li>MaterialUI</li>
+  <li>Login / Signup screen.</li>
+  <li>Main screen containing folder view of bookmarks and search feature.</li>
+</ul>
+
+
+## Backend
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
